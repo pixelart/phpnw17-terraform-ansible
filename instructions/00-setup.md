@@ -8,7 +8,9 @@ Please make sure you have prepared your notebook, which you bring to the worksho
 
 ### Operating System
 
-Ansible runs only on Linux, please ensure your notebook is either running Linux (I use Ubuntu) or have a Virtual Machine with Linux running (e.g. Virtualbox with Ubuntu 16.04 as guest).
+Ansible runs only on Linux (and Mac OSX), please ensure your notebook is either running Linux (I use Ubuntu) or have a Virtual Machine with Linux running (e.g. Virtualbox with Ubuntu 16.04 as guest).
+
+You can also use your Mac OSX, but I never used Ansible/Terraform on Mac, so use it on your own risk. I may help you with the most errors, but I can't guarantee that.
 
 ### Terraform
 
