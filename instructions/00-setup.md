@@ -65,9 +65,9 @@ If you can't create an AWS account (because you don't have a credit card or of o
 
 ### DNSimple
 
-In one part of the workshop, we will use DNSimple too. Don't worry, you get the access credentials from me to use it.
+In one part of the workshop, we will use [DNSimple](https://dnsimple.com/r/48cc3d40126b11) too. Don't worry, you get the access credentials from me to use it.
 
-However, if you have already a DNSimple account and want to use that (or want to create your own one), please obtain an [account level API v2 token](https://support.dnsimple.com/articles/api-access-token/) for the workshop
+However, if you have already a [DNSimple](https://dnsimple.com/r/48cc3d40126b11) account and want to use that (or want to [create your own one](https://dnsimple.com/r/48cc3d40126b11)), please obtain an [account level API v2 token](https://support.dnsimple.com/articles/api-access-token/) for the workshop
 
 ## IDE Support
 
